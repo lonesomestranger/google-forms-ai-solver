@@ -1,0 +1,5 @@
+aiogram
+beautifulsoup4
+curl_cffi
+google-generativeai
+python-dotenv
